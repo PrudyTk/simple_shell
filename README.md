@@ -3,6 +3,7 @@ Simple Shell
 Team project by Celumusa31 and PrudyTk 
 
 Tasks
+
 0. Betty would be proud
 1. Simple shell 0.1
 2. Simple shell 0.2
